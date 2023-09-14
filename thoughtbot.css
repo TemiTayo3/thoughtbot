@@ -1,0 +1,254 @@
+@import url(https://db.onlinewebfonts.com/c/4a0c1d6164df2c0aa88da1437cd38ef1?family=Calibre+Web);
+
+body{
+    padding-bottom: 50px;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 8px;
+    margin-top: 4px;
+}
+
+.head{
+    display: flex;
+    flex-direction: row;
+    border-bottom:  1px solid rgb(248, 244, 244);
+    margin-top: -10px;
+}
+
+#home{
+    height: 40px;
+    margin-top: 10px;
+}
+
+#search{
+    height: 20px;
+    margin-top: 18px;
+    margin-left: 10px;
+}
+
+span>a{
+    text-decoration: none;
+    color: rgba(34, 34, 34, 0.849);
+    font-size: 17px;
+    font-family: "Calibre Web";
+}
+
+.nav{
+    margin-top: 20px;
+}
+
+.hwh{
+    background-color: rgb(233, 27, 27);
+    border: none;
+    border-radius: 2px;
+    width: 160px;
+    height: 45px;
+    margin-top: 17px;
+}
+
+.link-hwh{
+    color: white;
+    font-family: "Calibre Web";
+    font-size: 18px;
+    font-weight: 600;
+}
+
+a.top:link{
+    color: rgba(34, 34, 34, 0.849);
+}
+
+a.top:hover{
+    color: rgb(233, 27, 27);
+}
+
+a.top:active{
+    color: rgb(233, 27, 27);
+}
+
+.body{
+    padding-top: 50px;
+}
+
+h1{
+    font-family: "Calibre Web";
+    font-size: 55px;
+    color: rgb(36, 36, 36);
+    text-align: center;
+}
+
+.para1{
+    font-family: "Calibre Web";
+    font-size: 27px;
+    color:  rgba(34, 34, 34, 0.849);
+    text-align: center;
+}
+
+.firstlink{
+    font-family: "Calibre Web";
+    font-size: 23px;
+    text-decoration: underline;
+    color:  rgb(212, 36, 36);;
+}
+
+a.firstlink:link{
+    color:  rgb(212, 36, 36);
+}
+
+a.firstlink:hover{
+    color: brown;
+}
+
+a.firstlink:active{
+    color: brown;
+    border: 2px solid rgba(233, 27, 27, 0.51);
+}
+
+.secondlink{
+    font-family: "Calibre Web";
+    font-size: 32px;
+    color: rgb(36, 36, 36);
+    text-align: justify;
+    margin-left: 194px;
+}
+
+h2{
+    margin-top: 60px;
+    text-align: justify;
+}
+
+a.secondlink:link{
+    color:  rgb(36, 36, 36);
+}
+
+a.secondlink:hover{
+    color: rgb(233, 27, 27);
+}
+
+a.secondlink:active{
+    color: rgb(233, 27, 27);
+    border: 2px solid rgba(233, 27, 27, 0.51);
+}
+
+.para2{
+    font-family: "Calibre Web";
+    font-size: 22.5px;
+    color:  rgba(34, 34, 34, 0.849);
+    text-align: justify;
+    margin-left: 200px;
+}
+
+.first-paralink{
+    display: flex;
+    flex-direction: row;
+    margin-left: 240px;
+}
+
+.steve{
+    text-decoration: none; 
+    font-size: 24px; 
+    font-family: Calibre Web; 
+    color: rgb(212, 36, 36);
+    text-align: justify;
+    margin-left: -50px;
+}
+a.steve:link{
+    color:  rgb(212, 36, 36);
+}
+
+a.steve:hover{
+    color: brown;
+}
+
+a.steve:active{
+    color: brown;
+    border: 2px solid rgba(233, 27, 27, 0.51);
+}
+
+.rrr{
+    text-decoration: none ; 
+    color: rgb(212, 36, 36);
+    font-family: Calibre Web;
+}
+
+a.rrr:link{
+    color:  rgb(212, 36, 36);
+}
+
+a.rrr:hover{
+    color: brown;
+}
+
+a.rrr:active{
+    color: brown;
+    border: 2px solid rgba(233, 27, 27, 0.51);
+}
+
+.last{
+    text-align: center;
+}
+
+.lastp{
+    text-decoration: none;
+    font-family: Calibre Web;
+    font-size: 24px;
+    color: rgb(212, 36, 36);
+    text-align: center;
+}
+
+a.lastp:link{
+    color:  rgb(212, 36, 36);
+}
+
+a.lastp:hover{
+    color: brown;
+}
+
+a.lastp:active{
+    color: brown;
+    border: 2px solid rgba(233, 27, 27, 0.51);
+}
+
+.scto-last{
+    border: 1px solid rgb(248, 244, 244);
+    text-align: center;
+    height: 170px;
+    width: 700px;
+    margin-left: 250px;
+    padding: 20px;
+    padding-top: 30px;
+    border-radius: 2px;
+}
+
+.paralast{
+    font-family: "Calibre Web";
+    font-size: 24px;
+    color:  rgba(34, 34, 34, 0.849);
+}
+
+.email{
+    font-family: "Calibre Web";
+    font-size: 20px;
+    color:  rgba(34, 34, 34, 0.849);
+    border: 1px solid darkgrey;
+    width: 400px;
+    height: 40px;
+    padding-left: 20px;
+}
+
+.sub{
+    font-family: "Calibre Web";
+    color: white;
+    font-size: 20px;
+}
+
+.sub-button{
+    height: 40px;
+    width: 150px;
+    background-color: rgb(233, 27, 27);
+    border: none;
+    border-radius: 2px;
+    margin-left: -14px;
+    margin-top: -10px;
+}
